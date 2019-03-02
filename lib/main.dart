@@ -184,6 +184,7 @@ class HomeRental extends StatelessWidget {
         ],
       ),
       bottomNavigationBar: BottomNavigationBar(
+        fixedColor: Colors.white,
         items: [
           BottomNavigationBarItem(
               icon: Icon(
